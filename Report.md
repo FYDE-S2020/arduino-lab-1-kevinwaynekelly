@@ -44,7 +44,7 @@ Team Number: F1
 
 10. list one pro and one con of UART
 
-    PRO: less wirds
+    PRO: less wires
 	CON: slower
 
 11. list one pro and one con of SPI
